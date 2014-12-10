@@ -41,6 +41,7 @@
                 <version>2.5.1</version>
                 <configuration>
                     <tagNameFormat>v@{project.version}</tagNameFormat>
+                    <branchName>relase-${project.version}</branchName>
                 </configuration>
             </plugin>
 
