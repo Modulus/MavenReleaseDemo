@@ -16,7 +16,7 @@
         <developerConnection>scm:git:file:///C:\Users\johska\GitProjects\MavenReleaseDemo</developerConnection>
 
         <!--<connection>scm:git:ssh://github.com/harrywye/miniauth.git</connection>-->
-      <connection>scm:git:ssh://git@github.com:Modulus/MavenReleaseDemo.git</connection>
+      <connection>scm:git:ssh://git@github.com/Modulus/MavenReleaseDemo.git</connection>
         <!--<url>https://github.com/harrywye/miniauth</url>-->
         <url>https://github.com/Modulus/MavenReleaseDemo</url>
         <tag>HEAD</tag>
