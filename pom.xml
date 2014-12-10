@@ -29,7 +29,7 @@
             <!--<url>file:///C:\Users\johska\GitProjects\MavenReleaseDemo</url>-->
             <!--<url>file://${project.build.directory}/mvn-repo</url>-->
             <!--<url>https://github.com/Modulus/MavenReleaseDemo</url>-->
-            <url>scm:git:ssh://git@github.com:Modulus/MavenReleaseDemo.git</url>
+            <url>scm:git:ssh://git@github.com/Modulus/MavenReleaseDemo.git</url>
         </repository>
     </distributionManagement>
 
