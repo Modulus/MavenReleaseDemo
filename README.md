@@ -1,0 +1,1 @@
+This is demo maven multi module project. For testing the maven release plugin
