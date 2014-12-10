@@ -3,10 +3,10 @@
     <parent>
         <artifactId>com.eguaks.core</artifactId>
         <groupId>com.eguaks.core</groupId>
-        <version>1.3</version>
+        <version>1.4-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-    <version>1.6</version>
+    <version>1.7-SNAPSHOT</version>
     <artifactId>com.eguaks.module2</artifactId>
 
 
