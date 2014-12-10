@@ -19,7 +19,7 @@
       <connection>scm:git:file:///C:\Users\johska\GitProjects\MavenReleaseDemo</connection>
         <!--<url>https://github.com/harrywye/miniauth</url>-->
         <url>scm:git:file:///C:\Users\johska\GitProjects\MavenReleaseDemo</url>
-        <tag>HEAD</tag>
+        <tag>relase-1.0-SNAPSHOT</tag>
   </scm>
 
     <distributionManagement>
