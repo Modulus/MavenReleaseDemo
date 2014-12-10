@@ -11,16 +11,19 @@
         <module>Module2</module>
         <module>Module3</module>
     </modules>
-
-   <dependencies>
-       <dependency>
+<build>
+   <plugins>
+       <plugin>
            <groupId>external.atlassian.jgitflow</groupId>
            <artifactId>jgitflow-maven-plugin</artifactId>
            <version>1.0-m4.3</version>
-       </dependency>
+           <configuration>
+               <noDeploy>true</noDeploy>
+           </configuration>
+       </plugin>
 
 
-   </dependencies>
-
+   </plugins>
+</build>
 
 </project>
