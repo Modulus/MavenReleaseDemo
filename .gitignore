@@ -3,3 +3,4 @@ target
 *.class
 .idea
 release.properties
+pom.xml.releaseBackup
