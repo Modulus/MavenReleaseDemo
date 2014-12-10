@@ -17,6 +17,7 @@
 
         <!--<connection>scm:git:ssh://github.com/harrywye/miniauth.git</connection>-->
       <connection>scm:git:file:///C:\Users\johska\GitProjects\MavenReleaseDemo</connection>
+
         <!--<url>https://github.com/harrywye/miniauth</url>-->
         <url>scm:git:file:///C:\Users\johska\GitProjects\MavenReleaseDemo</url>
         <tag>HEAD</tag>
